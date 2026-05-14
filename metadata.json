@@ -1,0 +1,6 @@
+{
+  "name": "Paradise Store",
+  "description": "Premium Digital Products Marketplace with a monochrome Bento Grid aesthetic and brand-specific identity glows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["firebase", "animations", "ecommerce"]
+}
